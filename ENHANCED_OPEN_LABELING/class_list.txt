@@ -1,0 +1,10 @@
+rocks
+pool
+vegetation
+roof
+window
+person
+dog
+car
+bicycle
+tree
