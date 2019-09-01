@@ -1,1 +1,2 @@
-# Shark-Detection
+# Shark-Detection Project
+
